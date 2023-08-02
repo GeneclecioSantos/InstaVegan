@@ -2,5 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="top">#5794EC99</color>
+    <color name="fundo">#5794EC99</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#DFAE6A</color>
+    <color name="purple_700">#77511C</color>
+    <color name="teal_200">#B57E31</color>
+    <color name="teal_700">#77511C</color>
 </resources>
