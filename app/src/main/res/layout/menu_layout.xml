@@ -35,7 +35,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="10dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/pets_menu_fundo" />
+                    android:src="@drawable/entrada" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -71,8 +71,8 @@
                     android:layout_height="150dp"
                     android:layout_gravity="center"
                     android:layout_marginTop="10dp"
-                    android:scaleType="centerInside"
-                    android:src="@drawable/produtos" />
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/burrito" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -116,8 +116,8 @@
                     android:layout_height="150dp"
                     android:layout_gravity="center"
                     android:layout_marginTop="10dp"
-                    android:scaleType="centerInside"
-                    android:src="@drawable/doacoes" />
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/bebidas" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -153,8 +153,8 @@
                     android:layout_height="150dp"
                     android:layout_gravity="center"
                     android:layout_marginTop="10dp"
-                    android:scaleType="centerInside"
-                    android:src="@drawable/servicos" />
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/docinho" />
 
                 <TextView
                     android:layout_width="wrap_content"
